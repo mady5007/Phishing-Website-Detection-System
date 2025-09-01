@@ -4,7 +4,6 @@
 ![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey?logo=flask)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?logo=scikit-learn)  
 ![Status](https://img.shields.io/badge/Status-Active-success)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 
 > A Machine Learning + Flask-based web application that detects **phishing websites** from URL features and classifies them as **Legitimate** or **Phishing**.  
 
