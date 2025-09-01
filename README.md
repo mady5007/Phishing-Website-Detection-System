@@ -138,3 +138,9 @@ This project can be further enhanced with:
 - Real-time browser extensions or cloud deployment  
 
 Overall, this project serves as a strong foundation for exploring **cybersecurity solutions using Machine Learning**.  
+
+---
+
+## Author
+Developed by **Madhumitha A**  
+Feel free to contribute or open issues!
